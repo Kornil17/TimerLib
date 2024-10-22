@@ -2,7 +2,7 @@ from functools import update_wrapper
 from time import perf_counter
 from typing import Callable, Tuple, Any, Dict, Union
 
-from __init__ import logger
+from TimerLib import logger
 
 
 class TimerSync:
