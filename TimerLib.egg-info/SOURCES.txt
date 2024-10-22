@@ -1,8 +1,0 @@
-setup.py
-Timer/__init__.py
-Timer/async_timer.py
-Timer/sync_timer.py
-TimerLib.egg-info/PKG-INFO
-TimerLib.egg-info/SOURCES.txt
-TimerLib.egg-info/dependency_links.txt
-TimerLib.egg-info/top_level.txt
