@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: Timer
-Version: 1.0.0
+Name: TimerLib
+Version: 1.1.0
 Summary: Timer library for synchronous and asynchronous functions
 Home-page: https://github.com/Kornil17/TimerLib.git
 Author: Kornil17
