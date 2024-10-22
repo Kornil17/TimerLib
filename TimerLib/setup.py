@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='TimerLib',
-    version='1.1.0',
+    version='1.2.0',
     packages=find_packages(),
     description='TimerLib library for synchronous and asynchronous functions',
     author='Kornil17',
