@@ -1,0 +1,5 @@
+setup.py
+TimerLib.egg-info/PKG-INFO
+TimerLib.egg-info/SOURCES.txt
+TimerLib.egg-info/dependency_links.txt
+TimerLib.egg-info/top_level.txt
